@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtWidgetstock", "QtWidgetstock.vcxproj", "{BF6B7033-CEA8-4708-BEDC-1ED37797AB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6B7033-CEA8-4708-BEDC-1ED37797AB37}.Debug|x64.ActiveCfg = Debug|x64
+		{BF6B7033-CEA8-4708-BEDC-1ED37797AB37}.Debug|x64.Build.0 = Debug|x64
+		{BF6B7033-CEA8-4708-BEDC-1ED37797AB37}.Release|x64.ActiveCfg = Release|x64
+		{BF6B7033-CEA8-4708-BEDC-1ED37797AB37}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187DCE96-F9C3-487D-9038-E2E431DF857F}
+	EndGlobalSection
+EndGlobal
